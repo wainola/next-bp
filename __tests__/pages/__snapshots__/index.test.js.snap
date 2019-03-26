@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Home /> it should render 1`] = `
+<div
+  className="main-content"
+>
+  <_default />
+  <h1
+    className="main-title"
+  >
+    Hello World Jest NB!
+  </h1>
+</div>
+`;
